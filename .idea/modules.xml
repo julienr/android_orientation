@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android_orientation.iml" filepath="$PROJECT_DIR$/android_orientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientation/orientation.iml" filepath="$PROJECT_DIR$/orientation/orientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientation_demo/orientation_demo.iml" filepath="$PROJECT_DIR$/orientation_demo/orientation_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+    </modules>
+  </component>
+</project>
+
